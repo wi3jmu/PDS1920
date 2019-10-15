@@ -7,3 +7,5 @@ Course material for Practical Data Science (PDS) 2019/2020, University of Wuerzb
   - [Version Control](https://github.com/matjesg/PDS1920/raw/master/Lecture/01_Version%20Control.pdf)
 
 # Cheatsheets
+
+- [Git](https://github.com/matjesg/PDS1920/raw/master/cheatsheets/git.pdf)
