@@ -6,7 +6,7 @@ Course material for Practical Data Science (PDS) 2019/2020, University of Wuerzb
   - Jupyter Basics [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/01_Jupyter.ipynb)
   - [Version Control](https://github.com/matjesg/PDS1920/raw/master/Lecture/01_Version%20Control.pdf)
 
-2 Descrptive Analytics [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/02_Descriptive_Analytics.ipynb)
+2 Descriptive Analytics [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/02_Descriptive_Analytics.ipynb)
 
 # Cheatsheets
 
