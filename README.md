@@ -8,6 +8,10 @@ Course material for Practical Data Science (PDS) 2019/2020, University of Wuerzb
 
 2 Descriptive Analytics [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/02_Descriptive_Analytics.ipynb)
 
+3 Introduction Machine Learning [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/03_Machine_Learning_Intro.ipynb)
+
+4 Feature Engineering [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/04_Feature_Engineering.ipynb)
+
 # Cheatsheets
 
 - [Git](https://github.com/matjesg/PDS1920/raw/master/cheatsheets/git.pdf)
