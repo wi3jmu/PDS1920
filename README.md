@@ -14,7 +14,7 @@ Course material for Practical Data Science (PDS) 2019/2020, University of Wuerzb
 
 5. Deep Learning on Tabular Data [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/05_Deep_Larning_Tabular.ipynb)
 
-6. Image Classification [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/06_Image Classification.ipynb)
+6. Image Classification [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/06_Image%20Classification.ipynb)
 
 # Cheatsheets
 
