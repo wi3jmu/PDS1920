@@ -2,15 +2,19 @@
 Course material for Practical Data Science (PDS) 2019/2020, University of Wuerzburg
 
 # Lecture
-1 Introduction [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/01_Introduction.ipynb)
-  - Jupyter Basics [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/01_Jupyter.ipynb)
-  - [Version Control](https://github.com/matjesg/PDS1920/raw/master/Lecture/01_Version%20Control.pdf)
+1. Introduction [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/01_Introduction.ipynb)
+    - Jupyter Basics [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/01_Jupyter.ipynb)
+    - [Version Control](https://github.com/matjesg/PDS1920/raw/master/Lecture/01_Version%20Control.pdf)
 
-2 Descriptive Analytics [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/02_Descriptive_Analytics.ipynb)
+2. Descriptive Analytics [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/02_Descriptive_Analytics.ipynb)
 
-3 Introduction Machine Learning [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/03_Machine_Learning_Intro.ipynb)
+3. Introduction Machine Learning [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/03_Machine_Learning_Intro.ipynb)
 
-4 Feature Engineering [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/04_Feature_Engineering.ipynb)
+4. Feature Engineering [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/04_Feature_Engineering.ipynb)
+
+5. Deep Learning on Tabular Data [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/05_Deep_Larning_Tabular.ipynb)
+
+6. Image Classification [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/06_Image Classification.ipynb)
 
 # Cheatsheets
 
