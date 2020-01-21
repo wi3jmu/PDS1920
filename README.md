@@ -16,6 +16,16 @@ Course material for Practical Data Science (PDS) 2019/2020, University of Wuerzb
 
 6. Image Classification [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/06_Image%20Classification.ipynb)
 
+7. Creating your own Dataset [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/07_Creating_Datasets.ipynb)
+
+8. Stochastic Gradient Descent [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/08_SGD.ipynb)
+
+9. Advanced Training and Regularization [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/09_Advanced_Deep_Learning.ipynb)
+
+10. CNN Architectures and Object Detection [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/10_Object_Detection.ipynb)
+
+11. Modularization and Code Outsourcing [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/PDS1920/blob/master/Lecture/11_Modularization.ipynb)
+
 # Cheatsheets
 
 - [Git](https://github.com/matjesg/PDS1920/raw/master/cheatsheets/git.pdf)
